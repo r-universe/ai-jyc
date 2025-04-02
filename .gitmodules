@@ -5,6 +5,9 @@
 [submodule "GENEAclassify"]
 	path = GENEAclassify
 	url = https://github.com/cran/GENEAclassify
+[submodule "GENEAcore"]
+	path = GENEAcore
+	url = https://github.com/cran/GENEAcore
 [submodule "GENEAread"]
 	path = GENEAread
 	url = https://github.com/cran/GENEAread
